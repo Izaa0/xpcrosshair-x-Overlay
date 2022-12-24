@@ -42,7 +42,7 @@ And if you messed up or you want to reset the Position from your Crosshair press
 
 <img width="690" alt="Screenshot 2022-12-24 150546" src="https://user-images.githubusercontent.com/108992411/209439420-3f314d1f-db73-4d80-a988-f1ae8ad7dbed.png">
 
-#Most Important!
+# Most Important!
 Use this Setting in every Game!
 Display Mode: Windowed Borderless
 
