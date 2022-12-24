@@ -13,7 +13,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 Use this Setting in every Game!
 Display Mode: Windowed Borderless
 
-#Guide and Requiremtns
+# Guide and Requiremtns
 As you see it works fine!
 
 
