@@ -28,7 +28,7 @@ Menu Design:
 <img width="407" alt="Screenshot 2022-12-24 150505" src="https://user-images.githubusercontent.com/108992411/209439422-ebd64195-8f7d-441d-bfe0-4f92a455dcd0.png">
 
 If you want to Move the Crosshair:
--> Put in your amount of Pixels in the textbox and then press the button where in wich direction you want to move the crosshair!
+-> Put in your amount of Pixels in the textbox and then press the button in wich direction you want to move the crosshair!
 
 
 
